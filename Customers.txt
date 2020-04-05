@@ -1,0 +1,4 @@
+Carly:Cat:ABCCCCE.
+Dodgy Dan:Dog:BCACECC.
+Ernie:Ettin:AABCCDD.
+Sally:Snake:AEEEEEE.
